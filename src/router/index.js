@@ -1,5 +1,7 @@
+import axios from "axios";
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+
 
 const routes = [
   {
